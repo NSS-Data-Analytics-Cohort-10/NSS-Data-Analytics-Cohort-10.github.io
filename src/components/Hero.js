@@ -38,8 +38,11 @@ function Hero({ cohortName, programName, demoDayLink, demoDate, heroRef, navBarR
             {programName}
           </p>
 
+          <img src={`${process.env.PUBLIC_URL}/classpic.png`} style={{ width: '100% !important' }} alt="Class Photo" />
+
         </div>
       </div>
+
 
       <div className="hero-foot">
         <nav className="navbar tabs" ref={navBarRef}>
