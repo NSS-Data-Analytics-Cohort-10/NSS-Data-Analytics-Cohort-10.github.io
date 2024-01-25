@@ -58,3 +58,9 @@ a {
 .card-content .content {
   min-height: 50px;
 }
+
+@media print, screen and (min-width: 769px) {
+  .hero.is-medium .hero-body {
+    padding: 1rem 4.5rem;
+  }
+}
