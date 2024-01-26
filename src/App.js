@@ -4,6 +4,7 @@ import StudentList from './components/StudentList';
 import TechList from './components/TechList';
 import DemoDayCTA from './components/DemoDayCTA';
 import Footer from './components/Footer';
+import Thanks from './components/Thanks';
 
 function App() {
   const [cohort, setCohort] = useState({});
@@ -55,6 +56,8 @@ function App() {
       <StudentList students={cohort.students} />
       <hr className="container has-background-danger" />
       <TechList techs={cohort.techs} />
+      <hr className="container has-background-danger" />
+      <Thanks />
       <hr className="container has-background-danger" />
       <DemoDayCTA demoDate={cohort.demo_day_readable} demoDayLink={cohort.demo_day_link} />
       <Footer />
