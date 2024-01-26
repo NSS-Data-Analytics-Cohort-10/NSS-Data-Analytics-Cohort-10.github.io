@@ -64,3 +64,25 @@ a {
     padding: 1rem 4.5rem;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .section.is-medium {
+    padding: 4rem 4.5rem;
+  }
+}
+
+.flex-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-list .item {
+  flex: 1 0 25%;
+  box-sizing: border-box;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.thank-you-title {
+  margin-top: 1em;
+}
