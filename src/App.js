@@ -57,8 +57,6 @@ function App() {
       <hr className="container has-background-danger" />
       <TechList techs={cohort.techs} />
       <hr className="container has-background-danger" />
-      <Thanks />
-      <hr className="container has-background-danger" />
       <DemoDayCTA demoDate={cohort.demo_day_readable} demoDayLink={cohort.demo_day_link} />
       <Footer />
     </div>
