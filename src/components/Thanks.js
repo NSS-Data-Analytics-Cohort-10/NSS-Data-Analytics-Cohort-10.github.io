@@ -6,56 +6,78 @@ function Thanks() {
         <h2 className="title has-text-centered">Thank You!</h2>
 
         <div class="container">
-            <p className="is-family-secondary"><b>thank-you (noun / ˈthaŋk-ˌyü ): </b>a polite expression of one's gratitude</p>
+            <p className="is-family-secondary">The students of DA Cohort 10 would like to thank the following people:</p>
 
-            <p className="is-family-secondary">Merriam-Webster’s definition of “Thank You” and our own written words fall woefully short in describing the level of appreciation and gratitude we feel and wish to express for the support and mentorship received while participating in the Nashville Software School (NSS) Part-Time Data Analytics Cohort – DA8. However, please accept our sincere appreciation.</p>
+              <h5 class="thank-you-title"><b>Instructors</b></h5>
 
-              <h5 class="thank-you-title">To the founder and CEO, <b>John Wark</b>:</h5>
+              <h5 class="thank-you-title"><b>Amanda Partlow  ⭐  Rob Schulteis  ⭐  Jonathon Hankins</b></h5>
 
-              <p className="is-family-secondary">It is with sincerest appreciation that we say “Thank You” for the vision to build a community that embraces technology, diversity, inclusion, and opportunity for all. Your hard work and dedication to this school and its programs will leave a lasting impression on Nashville’s technical community and our individual lives.</p>
+              <p className="is-family-secondary">We can’t express enough gratitude to our instructors, who coached us through our breakdowns and breakthroughs. Every class is a demonstration of your patience, humor, and kindness. You’ve encouraged us to keep pushing when our own motivation lagged (“Always be pushing!”). We won’t forget your generosity of time and spirit.  </p>
               
-              <h5 class="thank-you-title">To our instructors - , <b>Amanda Partlow</b>, <b>Jonathon Hankins</b>, and <b>Rob Schulteis</b>:</h5>
+              <h5 class="thank-you-title"><b>Faculty and Staff</b></h5>
 
-              <p className="is-family-secondary">We say “Thank You” for leading us in developing the critical skills required to become data professionals. From our initial start in spreadsheets through SQL, Python, and Capstone projects, the challenges we experienced as individuals and as a group were not few. The lessons we have learned both personally and professionally will guide us as we embark on this new chapter in life. Your tireless efforts and expert facilitation set the proper conditions for success in this course and our future careers.</p>
-              
-              <h5 class="thank-you-title">To the faculty and staff, <b>Jeremey Bakker</b> and <b>Michael Holloway</b>:</h5>
-              
-              <p className="is-family-secondary">We say “Thank You” for enabling our attendance in this course and delivering a data analytics program that is second to none. NSS has truly been an environment that enabled us to leverage our aptitude, motivation, and drive to enter the technical workforce and build a better life for ourselves and our families.</p>
-
-              <h5 class="thank-you-title">To Career Development, <b>Michael Frieh</b> and <b>Ashley Canino</b>:</h5>
-
-              <p className="is-family-secondary">We say “Thank You” for preparing us in one of the most challenging aspects of the transition to the technical workforce - finding and securing employment with the right company. Your care, consideration, and commitment to our success were evident in every one-on-one discussion, class presentation, interview preparation session, and resume or LinkedIn profile review. We could not have been placed in better hands to prepare us for the highly competitive job market.</p>
-
-              <h5 class="thank-you-title">To the data professionals and partners:</h5>
-
-              <p className="is-family-secondary">Finally, we say “Thank You” to the numerous data professionals listed below who took time from their busy lives and schedules to share their knowledge and experience with our cohort. From introducing us to Tableau and Power Bi to Geospatial Analysis to Lunch and Learns to Roundtable Events to Mock Interviews and supporting our Capstone presentations, this community of professionals has welcomed us to the data community and opened the door to becoming their colleagues. We look forward to the opportunity of “Paying it Forward” to future cohorts as we continue to develop ourselves as data professionals.</p>
+              <p className="is-family-secondary">We're grateful to the team of people at NSS who helped set us up for success, both in class and beyond. You’ve organized, developed, and facilitated events with community partners. You’ve worked with our financial situations, honed our resumes, and helped us level up our personal brands. Most of all, you believed in our potential. Thank you.</p>
 
               <ul class="flex-list">
-                      <div class="item"><li>Deme Khamken</li></div>
-                      <div class="item"><li>Ben Hummel</li></div>
-                      <div class="item"><li>Jen Whitson</li></div>
-                      <div class="item"><li>Lesley Easley</li></div>
-                      <div class="item"><li>Tito Amoguis</li></div>
-                      <div class="item"><li>Daniel Spaulding</li></div>
-                      <div class="item"><li>Ann Rumsey</li></div>
-                      <div class="item"><li>Cody Asbury</li></div>
-                      <div class="item"><li>Ed Pearson</li></div>
-                      <div class="item"><li>Caleb Autry</li></div>
-                      <div class="item"><li>Jasmine Drumright</li></div>
-                      <div class="item"><li>Keith Goodwin</li></div>
-                      <div class="item"><li>Ed Marx</li></div>
-                      <div class="item"><li>Mylah Gainey</li></div>
-                      <div class="item"><li>Ella S Fayer</li></div>
+                      <div class="item"><li>Michael Holloway</li></div>
+                      <div class="item"><li>Ashley Canino</li></div>
+                      <div class="item"><li>Michael Frieh</li></div>
+                      <div class="item"><li>Marla Lamont</li></div>
+              </ul>
+              
+              <h5 class="thank-you-title"><b>Guest Instructors</b></h5>
+              
+              <p className="is-family-secondary">Special thanks to the guest instructors who spent their time teaching us their areas of expertise, and offering gentle feedback on our first projects using them.</p>
+
+              <ul class="flex-list">
                       <div class="item"><li>Zoe Teets</li></div>
-                      <div class="item"><li>Nadia Marie Roumanos</li></div>
-                      <div class="item"><li>Abi Inglis</li></div>
-                      <div class="item"><li>Matt Rodgers</li></div>
-                      <div class="item"><li>Andrea Busch</li></div>
-                      <div class="item"><li>Chris Hart</li></div>
-                      <div class="item"><li>Ed Pearson</li></div>
-                      <div class="item"><li>Elise Holmes</li></div>
-                      <div class="item"><li>Shannon Pargin</li></div>
-                      <div class="item"><li>Katie Garrett</li></div>
+                      <div class="item"><li>Christian Mack</li></div>
+                      <div class="item"><li>Mary van Valkenburg</li></div>
+              </ul>
+
+              <h5 class="thank-you-title"><b>Community Partners</b></h5>
+
+              <p className="is-family-secondary">Thank you to Shannon Pargin from the Tennessee Early Intervention System, who provided a real-world project for us to test our new skills.</p>
+
+              <p className="is-family-secondary">Thank you to the many alumni and community partners who gave your time, experience, and support to our class. You have both educated and inspired us. We truly appreciate you answering all our questions and being a friendly face for the field we want to enter.</p>
+
+              <ul class="flex-list">
+                <div class="item"><li>Kevin Zavala</li></div>
+                <div class="item"><li>Robert Ruiz</li></div>
+                <div class="item"><li>Daniel Spaulding</li></div>
+                <div class="item"><li>Tito Amoguis</li></div>
+                <div class="item"><li>Christa R Hoover</li></div>
+                <div class="item"><li>Alex Trambley</li></div>
+                <div class="item"><li>Austin Davis</li></div>
+                <div class="item"><li>Caleb Autry</li></div>
+                <div class="item"><li>Jasmine Drumright</li></div>
+                <div class="item"><li>Marty Burns</li></div>
+                <div class="item"><li>Kyle Manning</li></div>
+                <div class="item"><li>Sara Stinson</li></div>
+                <div class="item"><li>Steph Miller</li></div>
+                <div class="item"><li>Lisha Bates</li></div>
+                <div class="item"><li>Abigail Asper</li></div>
+                <div class="item"><li>Emily Luciano</li></div>
+                <div class="item"><li>Becca Wolfe</li></div>
+                <div class="item"><li>Matt Rodgers</li></div>
+                <div class="item"><li>Josh Viele</li></div>
+                <div class="item"><li>Kristy McGee</li></div>
+                <div class="item"><li>Cheryl Stewart</li></div>
+                <div class="item"><li>Michael Ferral</li></div>
+                <div class="item"><li>Ann Rumsey</li></div>
+                <div class="item"><li>David M. Cole</li></div>
+                <div class="item"><li>Peter Mancini</li></div>
+                <div class="item"><li>Mylah Gainey</li></div>
+                <div class="item"><li>Powell Latimer</li></div>
+                <div class="item"><li>Abdalghfar Sayed</li></div>
+                <div class="item"><li>Brittany City</li></div>
+                <div class="item"><li>Krishnaa</li></div>
+                <div class="item"><li>Kalyani Pulgari</li></div>
+                <div class="item"><li>William Ilia</li></div>
+                <div class="item"><li>Robert Lunn</li></div>
+                <div class="item"><li>Nadia Marie Roumanos</li></div>
+                <div class="item"><li>Aneela Rajaram</li></div>
+                <div class="item"><li>Shannon Pargin</li></div>
               </ul>
           </div>
           </div>
